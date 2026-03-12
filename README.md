@@ -1,13 +1,18 @@
 # <a href="https://www.linkedin.com/in/danielle-respes-64113767/">Danielle Respes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Ever wonder what vulnerabilities are hiding in a cloud environment? I did too - so I built this! 
+Using Azure VMs and Tenable Nessus, I got hands-on with the full vulnerability management lifecycle - scanning, 
+finding, fixing, and documenting everything along the way. Check it out and see what I uncovered!
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
--  **[Azure Vulnerability Management – Tenable + Defender for Cloud](YOUR-REPO-LINK-HERE)**
+- **[Azure VM Vulnerability Management – Tenable Nessus](YOUR-REPO-LINK-HERE)**
 
+> **Tools:** Tenable Nessus · Microsoft Azure  
+  > **Scope:** Scanned Azure VMs for vulnerabilities, risk-ranked findings by severity, and documented remediation with SLA targets.  
+  > **Includes:** Risk register · Patch tracker · Executive summary report
   
 ## 🚨 Threat Hunting and Security Operations
 
