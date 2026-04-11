@@ -1,6 +1,5 @@
 # <a href="https://www.linkedin.com/in/danielle-respes-64113767/">Danielle Respes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-# Danielle Respes | IT & Cybersecurity Portfolio 🔐
 ### Senior Endpoint Technician → Cybersecurity Professional
 
 Not your typical career-changer. I bring 7+ years of real-world IT infrastructure experience - Active Directory, Intune, Azure, 
