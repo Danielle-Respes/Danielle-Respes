@@ -1,8 +1,11 @@
 # <a href="https://www.linkedin.com/in/danielle-respes-64113767/">Danielle Respes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Ever wonder what vulnerabilities are hiding in a cloud environment? I did too - so I built this! 
-Using Azure VMs and Tenable Nessus, I got hands-on with the full vulnerability management lifecycle - scanning, 
-finding, fixing, and documenting everything along the way. Check it out and see what I uncovered!
+# Danielle Respes | IT & Cybersecurity Portfolio 🔐
+### Senior Endpoint Technician → Cybersecurity Professional
+
+Not your typical career-changer. I bring 7+ years of real-world IT infrastructure experience - Active Directory, Intune, Azure, 
+and I'm channeling all of it into cybersecurity. These projects aren't just labs. 
+They're built the way I work: documented, methodical, and actually useful.
 
 ## ⚠️ Vulnerability Management Projects
 
