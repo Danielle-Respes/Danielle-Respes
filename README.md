@@ -50,7 +50,7 @@
 ---
 
 ## 💼 Work Experience Highlights
-**IT Technician — Council Rock School District**
+**Senior Endpoint Technician — Council Rock School District | Nov 2022 – Present**
 
 | Skill Area | What I Did |
 |-----------|------------|
