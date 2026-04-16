@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Danielle Respes 👋🔐</h1>
+<h1 align="center">Hey, I'm Danielle Respes </h1>
 <h3 align="center">Senior Endpoint Technician → Cybersecurity Professional</h3>
 
 <p align="center">
