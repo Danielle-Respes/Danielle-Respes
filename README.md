@@ -1,4 +1,16 @@
 <div align="center">
+  <img src="./profile.jpg" width="150" style="border-radius:50%"/>
+  
+  # Hey, I'm Danielle Respes 👋🔐
+  ### Senior Endpoint Technician → Cybersecurity Professional
+  
+  `Azure` · `Intune` · `M365 Security` · `Tenable` · `GRC`
+  
+  [LinkedIn — Let's Connect](https://www.linkedin.com/in/danielle-respes-64113767/)
+</div>
+
+---
+<div align="center">
 <h1>Hey, I'm Danielle Respes 👋🔐</h1>
 <h3>Senior Endpoint Technician → Cybersecurity Professional</h3>
 <a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn — Let's Connect</a>
