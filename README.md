@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Danielle Respes 👋🔐</h1>
+<h1 align="center">Hey, I'm Danielle Respes </h1>
 <h3 align="center">Senior Endpoint Technician → Cybersecurity Professional</h3>
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 `Azure` `Microsoft Entra ID` `Microsoft Defender` `Microsoft 365` `Tenable` `Windows` `PowerShell` `Active Directory` `Intune` `OBS Studio`
 
 ---
 
-## ⚠️ Vulnerability Management Projects
+##  Vulnerability Management Projects
 
 | Project | Description |
 |--------|-------------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚨 Threat Hunting & Security Operations
+##  Threat Hunting & Security Operations
 
 | Project | Description |
 |--------|-------------|
@@ -38,7 +38,7 @@
 
 ---
 
-## 💼 Work Experience Highlights
+##  Work Experience Highlights
 **Senior Endpoint Technician — Council Rock School District | Nov 2022 – Present**
 
 | Skill Area | What I Did |
