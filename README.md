@@ -1,9 +1,8 @@
-<h1 align="center">Hey, I'm Danielle Respes </h1>
-<h3 align="center">Senior Endpoint Technician → Cybersecurity Professional</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn — Let's Connect</a>
-</p>
+<div align="center">
+<h1>Hey, I'm Danielle Respes 👋🔐</h1>
+<h3>Senior Endpoint Technician → Cybersecurity Professional</h3>
+<a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn — Let's Connect</a>
+</div>
 
 ---
 
@@ -14,13 +13,13 @@
 
 ---
 
-##  Tools & Technologies
+## 🛠️ Tools & Technologies
 
-`Azure` `Microsoft Entra ID` `Microsoft Defender` `Microsoft 365` `Tenable` `Windows` `PowerShell` `Active Directory` `Intune` `OBS Studio`
+`Azure` · `Microsoft Entra ID` · `Microsoft Defender` · `Microsoft 365` · `Tenable` · `Windows` · `PowerShell` · `Active Directory` · `Intune` · `OBS Studio`
 
 ---
 
-##  Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
 | Project | Description |
 |--------|-------------|
@@ -30,7 +29,7 @@
 
 ---
 
-##  Threat Hunting & Security Operations
+## 🚨 Threat Hunting & Security Operations
 
 | Project | Description |
 |--------|-------------|
@@ -38,7 +37,7 @@
 
 ---
 
-##  Work Experience Highlights
+## 💼 Work Experience Highlights
 **Senior Endpoint Technician — Council Rock School District | Nov 2022 – Present**
 
 | Skill Area | What I Did |
@@ -54,4 +53,4 @@
 
 ## 🤳 Connect With Me
 
-[LinkedIn — Let's Connect](https://www.linkedin.com/in/danielle-respes-64113767/)
+<a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn — Let's Connect</a>
