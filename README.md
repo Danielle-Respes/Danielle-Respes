@@ -23,4 +23,50 @@
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00B388?style=for-the-badge&logo=microsoftdefender&logoColor=white)
 ![M365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Tenable](https://img.shields.io/badge/Tenable-00B388?style=for-the-badge&logo=tenable&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=wh
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003087?style=for-the-badge&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+
+---
+
+## ⚠️ Vulnerability Management Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔍 [Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program) | Full VM program implementation |
+| ⚙️ [Programmatic Vulnerability Remediations](https://github.com/joshcybertest/programmatic-vulnerability-remediations) | PowerShell & BASH remediations |
+| ☁️ [Azure VM Vulnerability Management – Tenable Nessus](YOUR-REPO-LINK-HERE) | Real cloud environment · Risk register · Patch tracker · Exec summary |
+
+---
+
+## 🚨 Threat Hunting & Security Operations
+
+| Project | Description |
+|--------|-------------|
+| 🕵️ [Threat Hunting Scenario – Tor Browser](https://github.com/joshmadakor0/threat-hunting-scenario-tor) | Detecting anonymous browsing activity |
+
+---
+
+## 💼 Work Experience Highlights
+**Senior Endpoint Technician — Council Rock School District | Nov 2022 – Present**
+
+| Skill Area | What I Did |
+|-----------|------------|
+| **M365 / Azure AD** | Resolved disabled Google/M365 accounts and login failures across student and staff environments — including accounts flagged by travel-based conditional access policies |
+| **Defender / M365 Security** | Conducted phishing investigations using Exchange Admin Center message traces, Azure AD sign-in logs, audit logs, and Microsoft Entra ID MFA review — identified spoofed senders, assessed account compromise risk, flagged suspicious authenticated devices, and analyzed 25+ quarantined high-confidence phishing emails across the district |
+| **Intune / Endpoint Management** | Managed Wisenet Wave (security camera client) deployment failure in Microsoft Intune at CR South High School — diagnosed 67/110 device install failures, investigated AAD token impersonation issues blocking Win32 app policy evaluation, identified ghost installs, and raised a critical life-safety concern to Physical Security after timing software load at 5–8 minutes on a new PC — significantly slower post-upgrade and dangerously slow in an active shooter scenario, validated during an actual lockdown at CR South on 10/1/2025 |
+| **Incident Analysis / Windows** | Led black screen crash investigation across 25 PCs at CR South (Dell 3060, 5090, 7010) — analyzed Event Viewer application and system logs, identified pattern of crashes at login and screen unlock, correlated Windows Update history to isolate faulty KB updates, used CMD (wusa /uninstall) to remove problematic patches, tracked recurrence across 3 months (Jan–Mar 2025), and maintained a Black Screen Analysis spreadsheet |
+| **Project Management / Migration** | Led full PC migration of a live broadcast TV studio (Dell 3050 → Dell 7010 Intune-managed) — migrated OBS profiles, scene collections, and assets; resolved 8-mic USB audio driver conflicts; configured YouTube RTMP live streaming; ran DISM, SFC, and Windows Memory Diagnostics; ran VirusTotal malware analysis for director approval; maintained rollback plan and created full documentation. Logged 16 hours across 3 weeks with zero disruption to daily school broadcasts |
+| **Large-Scale Deployment** | Coordinated PC refresh at CR South — planned and executed swap of 56 Dell 7010s and 56 Dell 3060s across smartboard-connected classrooms, renamed and re-labeled all devices in Intune prior to deployment, managed e-waste collection of 3050s, installed additional software on IPC math rooms, coordinated with external vendor (CHSC) and district IT leads, and verified Intune app and script delivery post-deployment |
+
+---
+
+## 🤳 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/danielle-respes-64113767/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
