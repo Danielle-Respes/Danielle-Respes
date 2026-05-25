@@ -27,9 +27,8 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔍 [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program implementation |
-| ⚙️ [Programmatic Vulnerability Remediations](https://github.com/joshcybertest/programmatic-vulnerability-remediations) | PowerShell & BASH remediations |
-| ☁️ [Azure VM Vulnerability Management – Tenable Nessus](YOUR-REPO-LINK-HERE) | Real cloud environment · Risk register · Patch tracker · Exec summary |
+| [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program implementation |
+
 
 ---
 
