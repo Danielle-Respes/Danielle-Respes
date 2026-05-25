@@ -33,14 +33,6 @@
 
 ---
 
-## // Threat Hunting & Security Operations
-
-| Project | Description |
-|--------|-------------|
-| 🕵️ [Threat Hunting Scenario – Tor Browser](https://github.com/joshmadakor0/threat-hunting-scenario-tor) | Detecting anonymous browsing activity |
-
----
-
 ## // Work Experience
 **Senior Endpoint Technician — Council Rock School District | Nov 2022 – Present**
 
