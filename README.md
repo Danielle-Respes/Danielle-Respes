@@ -37,15 +37,19 @@
 
 
 | Skill Area | What I Did |
-|-----------|------------|
-| **IAM / Azure AD** | Managed Azure AD and Microsoft 365 IAM for 8,000+ accounts — enforced MFA, audited privileged access, automated license provisioning, and resolved lifecycle issues affecting 100+ coach accounts by auditing AD group membership and restoring email access through targeted remediation |
-| **Email Security Forensics** | Conducted forensic analysis of email incidents using Exchange Message Trace, Microsoft Defender for Office 365, and Google Admin — identified DLP blocks, spoofed senders, assessed account compromise risk, flagged suspicious authenticated devices, and analyzed 25+ quarantined high-confidence phishing emails |
-| **DLP / Web Filtering** | Investigated Microsoft Copilot AI bypassing GoGuardian filtering controls — documented security gaps and recommended enhancements to DLP policies and acceptable use enforcement |
-| **Intune / Endpoint Management** | Led phased Intune deployment remediation reducing installation delays from 65 hours to 1 hour — diagnosed device-specific failures, investigated AAD token impersonation issues blocking Win32 app policy evaluation, identified ghost installs, and proactively raised a critical life-safety concern to Physical Security after timing security camera software load at 5–8 minutes on a new PC |
-| **Incident Response** | Documented incident investigations following NIST framework using Microsoft Defender telemetry and malware analysis — led black screen crash investigation across 25 PCs, analyzed Event Viewer logs, correlated Windows Update history to isolate faulty KB patches, and maintained a 3-month tracking spreadsheet |
-| **Project Management / Migration** | Led full PC migration of a live broadcast TV studio (Dell 3050 → Dell 7010 Intune-managed) — resolved 8-mic USB audio driver conflicts, configured YouTube RTMP live streaming, ran VirusTotal malware analysis for director approval, maintained rollback plan. 16 hours, zero broadcast disruption |
-| **Large-Scale Deployment** | Coordinated CR South PC refresh — planned and executed swap of 56 Dell 7010s and 56 Dell 3060s, renamed and re-labeled all devices in Intune, managed e-waste, coordinated with external vendor and district IT leads |
-| **Network Security** | Supported network migration from Cisco to Fortinet — validated VLAN configurations, switch port security, and documented network segmentation |
+| ---------- | ---------- |
+| **Network Security** | Assisted Cisco-to-Fortinet network migration — validated switch port configurations, VLAN access, and connectivity. Monitor Fortinet FortiGate firewall (read access) and manage FortiClient EMS across 3,659+ endpoints. Supported investigation of a SIEM-flagged DNS alert involving a workstation communicating with a FortiGuard-categorized malware domain |
+| **Firewall & DMZ Coordination** | Coordinated external vendor firewall whitelisting, outbound traffic configuration, and DMZ port activation requirements for live district events — worked with internal network team to fulfill requirements and validated port connectivity prior to each event. Completed for three separate district events |
+| **IAM / Account Access** | Investigated email access failures affecting 101 coaches and staff — identified root cause as incorrect Active Directory group assignments and missing Microsoft 365 licenses; re-added affected accounts to correct groups and verified license assignments across all users to restore access |
+| **Incident Response & Investigation** | Responded to security incidents by investigating and troubleshooting phishing and account compromise using Microsoft Defender, Azure AD risky sign-in alerts, audit logs, Exchange Message Trace, and Google Admin — identified suspicious activity patterns and escalated findings with documented evidence to management |
+| **Web Filtering / Security Gap** | Identified a web filtering control gap where Microsoft Copilot AI bypassed GoGuardian content filtering — documented the security gap with evidence and escalated to IT management for remediation |
+| **Intune / Endpoint Deployment** | Investigated security camera software (Wisenet Wave) failing to install on 77 of 132 computers after an update — identified root cause, documented ghost installs, timed software load for life-safety assessment, and escalated a critical concern to Physical Security and IT management |
+| **Software Rollout & Testing** | Rolled out SMART classroom software by piloting with selected teachers, documenting successful and failed installs across device models, identifying a 65-hour delay pattern on certain computers — used Intune to restart devices and recommended holiday break deployments to management |
+| **Vendor Security Management** | Identified recurring security control failures on vendor-returned student laptops including BitLocker bypass conditions, TPM misconfiguration, and Intune enrollment discrepancies — built evidence-based tracking log to support risk remediation |
+| **Network Troubleshooting** | Investigated and escalated switch port, VLAN, and DNS connectivity failures across the district — documented physical port connections, captured network data, and coordinated with infrastructure team for resolution |
+| **TV Studio Migration** | Led PC migration of live broadcast TV studio from Dell 3050 to Dell 7010 — ran VirusTotal malware analysis for director approval, resolved 8 USB audio driver conflicts for microphones, completed migration with zero broadcast disruption |
+
+---
 
 ---
 
