@@ -51,6 +51,13 @@
 
 ---
 
+**Planning & Procurement Manager — Gamesa Wind Energy (now Siemens Gamesa Renewable Energy) | Mar 2006 – Jan 2016**
+
+| Skill Area | What I Did |
+| ---------- | ---------- |
+| **Project Planning & Coordination** | Coordinated cranes, vendors, site workers, and materials across 52 wind farm sites before each repair start date — ensuring all resources were confirmed and in place under time pressure |
+| **Process Documentation** | Assisted SAP MRP/MPS implementation transitioning from manual Excel-based tracking; maintained inventory levels and tested new planning workflows — applied Lean Six Sigma Green Belt methodology to improve efficiency |
+| **Cross-Team Communication** | Coordinated with Spain headquarters and multiple international vendors; experienced communicating across teams, cultures, and levels of technical proficiency |
 ---
 
 <div align="center">
