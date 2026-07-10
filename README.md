@@ -1,4 +1,4 @@
-# Danielle Respes 👋🔐
+# Danielle Respes 
 
 ### Senior Endpoint Technician → Cybersecurity Professional
 
@@ -23,6 +23,11 @@
 | KQL Query Library *(coming soon)* | 10 annotated detection queries built in Microsoft Sentinel | KQL, Microsoft Sentinel |
 | MITRE ATT&CK Research *(coming soon)* | Technique briefs for 9 ATT&CK techniques — log artifacts, detection logic, real-world campaign usage | MITRE ATT&CK, KQL, Sentinel |
 | Hidden Directive Incident Report *(coming soon)* | Full incident investigation from live threat hunt — alert triage, artifact analysis, attack timeline, formal IR report | Sentinel, MDE, NIST 800-61 |
+## // Threat Hunt Investigations
+| Investigation | Description | Status |
+|---|---|---|
+| [Hidden Directive — GF-INC-2026-0704](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | First live threat hunt — Sentinel + MDE | 🔴 Opens July 18 |
+
 
 ---
 
