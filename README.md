@@ -1,67 +1,62 @@
-<div align="center">
+# Danielle Respes 👋🔐
 
-<h1>Danielle Respes 👋🔐</h1>
-<h3>Senior Endpoint Technician → Cybersecurity Professional</h3>
+### Senior Endpoint Technician → Cybersecurity Professional
 
-<p>
-<code>Azure</code> · <code>Intune</code> · <code>M365 Security</code> · <code>Tenable</code> · <code>GRC</code>
-</p>
+`Azure` · `Microsoft Sentinel` · `Defender for Endpoint` · `Tenable` · `KQL` · `NIST` · `Intune` · `Active Directory` · `Entra ID` · `GRC`
 
-<a href="https://www.linkedin.com/in/danielle-respes-64113767/">🤳 LinkedIn — Let's Connect</a>
-
-</div>
+[🤳 LinkedIn — Let's Connect](https://www.linkedin.com/in/danielle-respes-64113767/)
 
 ---
 
 > 7+ years in IT infrastructure — Active Directory, Intune, Azure. Now building in cybersecurity. Not just labs — real work, documented, methodical, and actually useful.
 
+**Currently:** CompTIA Security+ exam scheduled July 2026 | Active Cyber Range internship @ LogNPacific
+
+---
+
+## // Projects & Portfolio
+
+| Project | Description | Tools |
+|---|---|---|
+| [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Built a full VM program — policy, authenticated scans, CVSS prioritization, 4 remediation rounds, CAB presentation | Tenable, Azure VMs, NIST RMF |
+| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigated unauthorized TOR browser usage — queried file, process, and network events to confirm installation and isolate endpoint | KQL, Microsoft Defender for Endpoint |
+| KQL Query Library *(coming soon)* | 10 annotated detection queries built in Microsoft Sentinel | KQL, Microsoft Sentinel |
+| MITRE ATT&CK Research *(coming soon)* | Technique briefs for 9 ATT&CK techniques — log artifacts, detection logic, real-world campaign usage | MITRE ATT&CK, KQL, Sentinel |
+| Hidden Directive Incident Report *(coming soon)* | Full incident investigation from live threat hunt — alert triage, artifact analysis, attack timeline, formal IR report | Sentinel, MDE, NIST 800-61 |
+
 ---
 
 ## // Tools & Technologies
 
-`Azure` · `Microsoft Entra ID` · `Microsoft Defender` · `Microsoft 365` · `Tenable` · `Windows` · `PowerShell` · `Active Directory` · `Intune` · `OBS Studio`
-
----
-
-## // Vulnerability Management
-
-| Project | Description |
-|--------|-------------|
-| [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program implementation |
-
+`Azure` · `Microsoft Entra ID` · `Microsoft Sentinel` · `Microsoft Defender for Endpoint` · `Microsoft 365` · `Tenable` · `KQL (Kusto Query Language)` · `Windows` · `PowerShell` · `Active Directory` · `Intune` · `FortiClient EMS` · `NIST CSF` · `NIST 800-53` · `NIST 800-61`
 
 ---
 
 ## // Work Experience
+
 **Senior Endpoint Technician — Council Rock School District | Nov 2022 – Present**
 
+| Skill Area | What I Did |
+|---|---|
+| **Endpoint Security** | Manage FortiClient EMS across 3,659+ endpoints; enforce Zero Trust Access policies; remediated Secure Boot configuration failures across 700+ Chromebook and laptop endpoints district-wide via Microsoft Intune |
+| **Incident Response** | Investigated email spoofing incidents using Exchange Message Trace, Azure AD sign-in logs, and Entra ID MFA review — identified spoofed senders, analyzed IP geolocation anomalies, briefed leadership |
+| **Threat Detection** | Identified and documented Impossible Travel security alerts triggered by legitimate VPN usage — root cause analysis, log review, evidence-based findings presented to leadership |
+| **Security Compliance** | Identified students bypassing GoGuardian content filtering using AI tools — documented bypass methods, escalated to leadership, drove district-wide policy change |
+| **Vulnerability Management** | Investigated security camera software (Wisenet Wave) failing to install — root cause analysis, life-safety escalation to Physical Security with formal findings |
+| **IAM / Account Access** | Supported Azure AD and Microsoft 365 IAM for 8,000+ accounts — MFA enforcement, Conditional Access, license management, account lifecycle |
+| **Process Improvement** | Conducted comparative analysis of USB vs Intune Autopilot wipe methods; identified Intune rollout install variance from 40 minutes to 65 hours — both escalated to Director of Technology with recommendations |
+| **Network Security** | Assisted Cisco-to-Fortinet migration; monitored FortiGate firewall; coordinated DMZ port validation for live district events |
+
+---
+
+**Planning & Procurement Manager — Gamesa Wind | Mar 2006 – Jan 2016**
 
 | Skill Area | What I Did |
-| ---------- | ---------- |
-| **Network Security** | Assisted Cisco-to-Fortinet network migration — validated switch port configurations, VLAN access, and connectivity. Monitor Fortinet FortiGate firewall (read access) and manage FortiClient EMS across 3,659+ endpoints. Supported investigation of a SIEM-flagged DNS alert involving a workstation communicating with a FortiGuard-categorized malware domain |
-| **Firewall & DMZ Coordination** | Coordinated external vendor firewall whitelisting, outbound traffic configuration, and DMZ port activation requirements for live district events — worked with internal network team to fulfill requirements and validated port connectivity prior to each event. Completed for three separate district events |
-| **IAM / Account Access** | Investigated email access failures affecting 101 coaches and staff — identified root cause as incorrect Active Directory group assignments and missing Microsoft 365 licenses; re-added affected accounts to correct groups and verified license assignments across all users to restore access |
-| **Incident Response & Investigation** | Responded to security incidents by investigating and troubleshooting phishing and account compromise using Microsoft Defender, Azure AD risky sign-in alerts, audit logs, Exchange Message Trace, and Google Admin — identified suspicious activity patterns and escalated findings with documented evidence to management |
-| **Web Filtering / Security Gap** | Identified a web filtering control gap where Microsoft Copilot AI bypassed GoGuardian content filtering — documented the security gap with evidence and escalated to IT management for remediation |
-| **Intune / Endpoint Deployment** | Investigated security camera software (Wisenet Wave) failing to install on 77 of 132 computers after an update — identified root cause, documented ghost installs, timed software load for life-safety assessment, and escalated a critical concern to Physical Security and IT management |
-| **Software Rollout & Testing** | Rolled out SMART classroom software by piloting with selected teachers, documenting successful and failed installs across device models, identifying a 65-hour delay pattern on certain computers — used Intune to restart devices and recommended holiday break deployments to management |
-| **Vendor Security Management** | Identified recurring security control failures on vendor-returned student laptops including BitLocker bypass conditions, TPM misconfiguration, and Intune enrollment discrepancies — built evidence-based tracking log to support risk remediation |
-| **Network Troubleshooting** | Investigated and escalated switch port, VLAN, and DNS connectivity failures across the district — documented physical port connections, captured network data, and coordinated with infrastructure team for resolution |
-| **TV Studio Migration** | Led PC migration of live broadcast TV studio from Dell 3050 to Dell 7010 — ran VirusTotal malware analysis for director approval, resolved 8 USB audio driver conflicts for microphones, completed migration with zero broadcast disruption |
+|---|---|
+| **Supply Chain** | Managed procurement workflows in SAP ERP across 52 sites — audit trails, purchasing controls, multi-site compliance |
+| **Process Improvement** | Applied Lean Six Sigma Green Belt methodology — contributed to process improvement database deployed across 52 operational sites |
+| **Vendor Management** | Coordinated with international vendors; managed tower procurement and wind farm repair logistics across PA and Texas |
 
 ---
 
-**Planning & Procurement Manager — Gamesa Wind Energy (now Siemens Gamesa Renewable Energy) | Mar 2006 – Jan 2016**
-
-| Skill Area | What I Did |
-| ---------- | ---------- |
-| **Project Planning & Coordination** | Coordinated cranes, vendors, site workers, and materials across 52 wind farm sites before each repair start date — ensuring all resources were confirmed and in place under time pressure |
-| **Process Documentation** | Assisted SAP MRP/MPS implementation transitioning from manual Excel-based tracking; maintained inventory levels and tested new planning workflows — applied Lean Six Sigma Green Belt methodology to improve efficiency |
-| **Cross-Team Communication** | Coordinated with Spain headquarters and multiple international vendors; experienced communicating across teams, cultures, and levels of technical proficiency |
----
-
-<div align="center">
-<a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn — Let's Connect</a>
-</div>
-
----
+[LinkedIn — Let's Connect](https://www.linkedin.com/in/danielle-respes-64113767/)
