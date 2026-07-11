@@ -56,16 +56,23 @@ My work is driven by three core tenets:
 
 ---
 
-## Full Project Portfolio
+## Completed Investigations
 
-| Project | Description | Tools | Status |
-|---|---|---|---|
-| [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program — policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, mock CAB presentation | Tenable · Azure VMs · NIST RMF | Complete |
-| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigated unauthorized TOR usage — queried DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint | KQL · MDE | Complete |
-| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion investigation — valid account entry, brute force decoy, pivot analysis, C2 detection | Sentinel · Defender XDR · KQL | In Progress |
-| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | First live threat hunt — real incident, real telemetry, no guided walkthrough. Formal IR report following NIST 800-61 | Sentinel · MDE · KQL · NIST 800-61 | Opens July 18 |
-| KQL Detection Query Library | 10 annotated detection queries in Microsoft Sentinel — failed login analysis, outbound connection monitoring, threat pattern detection | KQL · Sentinel | In Progress |
-| MITRE ATT&CK Research | Research briefs for 9 ATT&CK techniques — log artifacts, KQL detection logic, real-world campaign usage | MITRE ATT&CK · KQL · Sentinel | In Progress |
+| Project | Description | Tools |
+|---|---|---|
+| [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program — policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, mock CAB presentation | Tenable · Azure VMs · NIST RMF |
+
+---
+
+## Upcoming Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigated unauthorized TOR usage — queried DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint | KQL · MDE |
+| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion — valid account entry, brute force decoy, pivot analysis, C2 detection | Sentinel · Defender XDR · KQL |
+| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | First live threat hunt — real incident, real telemetry, formal IR report following NIST 800-61 | Sentinel · MDE · KQL · NIST 800-61 |
+| KQL Detection Query Library | 10 annotated detection queries in Microsoft Sentinel | KQL · Sentinel |
+| MITRE ATT&CK Research | Research briefs for 9 ATT&CK techniques — log artifacts, KQL detection logic, campaign usage | MITRE ATT&CK · KQL · Sentinel |
 
 ---
 
@@ -87,14 +94,4 @@ My work is driven by three core tenets:
 
 ## Certifications
 
-**In Progress:** CompTIA Security+ (July 2026) · MD-102 · AZ-104 (StormWind Studios) · NIST CSF · 800-37 · 800-53 · 800-61 · CIS Controls · HIPAA · PCI DSS (The Cyber Range)
-
-**Certified:** MCSE (1999) · CCNA (1999) · Lean Six Sigma Green Belt
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/Danielle-Respes">github.com/Danielle-Respes</a>
-</p>
+**In Progress:** CompTIA Security+ (July 2026) · MD-102 · AZ-104 (StormWind Studios) · NIST CSF · 800-37 · 800-53 · 800-61 · CIS
