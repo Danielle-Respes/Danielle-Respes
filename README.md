@@ -38,10 +38,11 @@ IT Security &nbsp;|&nbsp; Identity & Access Management &nbsp;|&nbsp; GRC &nbsp;|
 | Investigation | Description | Tools | Status |
 |---|---|---|---|
 | [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program — policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, mock CAB presentation | Tenable · Azure VMs · NIST RMF | Complete |
-| [Threat Hunting — Unauthorized TOR Usage](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigated unauthorized TOR browser usage — queried DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint | KQL · Microsoft Defender for Endpoint | Complete |
+| [Threat Hunting — Unauthorized TOR Usage](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigated unauthorized TOR browser usage — queried DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint | KQL · Microsoft Defender for Endpoint | In-Progress |
+| [Northpeak Descent — Cross-Platform Intrusion](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion across Windows and Linux hosts — valid account entry, brute force decoy, pivot analysis, C2 detection. Practice mode with community debrief July 15. | Microsoft Sentinel · Defender XDR · KQL | In Progress-July 11 |
 | [Hidden Directive — Live Threat Hunt](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | First live threat hunt investigation — real incident, real telemetry, no guided walkthrough. Formal incident report following NIST 800-61. | Microsoft Sentinel · MDE · KQL · NIST 800-61 | Opens July 18, 2026 |
-| KQL Detection Query Library | 10 annotated detection queries built in Microsoft Sentinel — failed login analysis, outbound connection monitoring, threat pattern detection | KQL · Microsoft Sentinel | In Progress |
-| MITRE ATT&CK Technique Research | Research briefs for 9 ATT&CK techniques across Initial Access, Execution, and Lateral Movement — log artifacts, KQL detection logic, real-world campaign usage | MITRE ATT&CK · KQL · Sentinel | In Progress |
+| KQL Detection Query Library | 10 annotated detection queries built in Microsoft Sentinel — failed login analysis, outbound connection monitoring, threat pattern detection | KQL · Microsoft Sentinel | Pending |
+| MITRE ATT&CK Technique Research | Research briefs for 9 ATT&CK techniques across Initial Access, Execution, and Lateral Movement — log artifacts, KQL detection logic, real-world campaign usage | MITRE ATT&CK · KQL · Sentinel | Pending |
 
 ---
 
