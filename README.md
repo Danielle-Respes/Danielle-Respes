@@ -39,11 +39,11 @@ I am a security-focused professional bridging the gap between endpoint managemen
 
 My work is driven by three core tenets:
 
-**Evidence-Based Defense** — Moving beyond alerts to understand the why behind telemetry.
+**Evidence-Based Defense**:  Moving beyond alerts to understand the why behind telemetry.
 
-**Process Discipline** — Utilizing structured methodologies (NIST CSF) to ensure investigations are repeatable and scalable.
+**Process Discipline**:  Utilizing structured methodologies (NIST CSF) to ensure investigations are repeatable and scalable.
 
-**Effective Communication** — Translating complex technical incidents into actionable business insights for SOC, GRC, and leadership stakeholders.
+**Effective Communication**:  Translating complex technical incidents into actionable business insights for SOC, GRC, and leadership stakeholders.
 
 ---
 
