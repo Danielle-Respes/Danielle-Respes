@@ -1,4 +1,4 @@
-[GitHub-Profile-README.md](https://github.com/user-attachments/files/29908291/GitHub-Profile-README.md)
+
 <h2 align="center">DANIELLE RESPES</h2>
 
 <p align="center">
