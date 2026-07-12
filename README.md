@@ -37,13 +37,7 @@ I'm a Senior Endpoint Technician moving into cyber defense. I'm using my backgro
 
 ## Professional Mission
 
-My work is driven by three core tenets:
-
-**Evidence-Based Defense**:  Moving beyond alerts to understand the why behind telemetry.
-
-**Process Discipline**:  Utilizing structured methodologies (NIST CSF) to ensure investigations are repeatable and scalable.
-
-**Effective Communication**:  Translating complex technical incidents into actionable business insights for SOC, GRC, and leadership stakeholders.
+My mission is to learn, document, and grow. I'm using this space to track my move from endpoint management into the SOC, focusing on learning NIST-aligned workflows and clear, high-fidelity reporting.
 
 ---
 
