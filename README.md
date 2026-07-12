@@ -37,7 +37,7 @@ I'm a Senior Endpoint Technician moving into cyber defense. I'm using my backgro
 
 ## Professional Mission
 
-My mission is to learn, document, and grow. I'm using this space to track my move from endpoint management into the SOC, focusing on learning NIST-aligned workflows and clear, high-fidelity reporting.
+My mission is to learn, document, and grow. I'm using this space to track my move from endpoint management into a security role, building toward cyber defense, GRC, and IAM.
 
 ---
 
