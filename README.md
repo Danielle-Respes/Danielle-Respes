@@ -29,7 +29,7 @@
 
 ---
 
-I am a Senior Endpoint Technician transitioning into Cyber Defense, focusing on building repeatable, NIST-aligned investigative workflows from the endpoint up.
+I'm a Senior Endpoint Technician moving into cyber defense. I'm using my background in system administration to build threat hunting and security analysis skills, and I document my process clearly so my work is transparent and useful to others.
 
 > *"I believe real expertise is built in the noise — by navigating real telemetry and dead ends to understand the why behind the data."*
 
