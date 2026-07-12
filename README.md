@@ -29,7 +29,7 @@
 
 ---
 
-I am a security-focused professional bridging the gap between endpoint management and proactive threat hunting. I specialize in building repeatable, NIST-aligned investigative workflows and high-fidelity technical reporting.
+I am a Senior Endpoint Technician transitioning into Cyber Defense, focusing on building repeatable, NIST-aligned investigative workflows from the endpoint up.
 
 > *"I believe real expertise is built in the noise — by navigating real telemetry and dead ends to understand the why behind the data."*
 
