@@ -45,8 +45,8 @@ My mission is to learn, document, and grow. I'm using this space to track my mov
 
 | Investigation | Focus | Status |
 |---|---|---|
-| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | Live threat hunt — Microsoft Sentinel + MDE telemetry. Real incident, real artifacts, formal IR report following NIST 800-61. | Opens July 18, 2026 |
-| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion across Windows and Linux hosts — KQL pivot analysis to identify lateral movement, persistence, and C2. | In Progress |
+| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigating unauthorized TOR usage — querying DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint. | Active Hunt |
+| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | Live threat hunt — Microsoft Sentinel + MDE telemetry. Formal IR report following NIST 800-61. | Opens July 18, 2026 |
 
 ---
 
@@ -54,6 +54,7 @@ My mission is to learn, document, and grow. I'm using this space to track my mov
 
 | Project | Description | Tools |
 |---|---|---|
+| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion (Windows/Linux) — identified initial access, pivot, and attacker workstation `loranse`. | Sentinel · Defender XDR · KQL |
 | [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program — policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, mock CAB presentation | Tenable · Azure VMs · NIST RMF |
 
 ---
@@ -62,9 +63,6 @@ My mission is to learn, document, and grow. I'm using this space to track my mov
 
 | Project | Description | Tools |
 |---|---|---|
-| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigated unauthorized TOR usage — queried DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint | KQL · MDE |
-| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion — valid account entry, brute force decoy, pivot analysis, C2 detection | Sentinel · Defender XDR · KQL |
-| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | First live threat hunt — real incident, real telemetry, formal IR report following NIST 800-61 | Sentinel · MDE · KQL · NIST 800-61 |
 | KQL Detection Query Library | 10 annotated detection queries in Microsoft Sentinel | KQL · Sentinel |
 | MITRE ATT&CK Research | Research briefs for 9 ATT&CK techniques — log artifacts, KQL detection logic, campaign usage | MITRE ATT&CK · KQL · Sentinel |
 
@@ -88,4 +86,4 @@ My mission is to learn, document, and grow. I'm using this space to track my mov
 
 ## Certifications
 
-**In Progress:** CompTIA Security+ (July 2026) · MD-102 · AZ-104 (StormWind Studios) · NIST CSF · 800-37 · 800-53 · 800-61 · CIS
+**In Progress:** CompTIA Security+ (July 2026) · MD-102 · AZ-104 (StormWind Studios)
