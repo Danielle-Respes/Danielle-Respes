@@ -1,43 +1,24 @@
 <h1 align="center">Danielle Respes</h1>
-
 <p align="center">
-<strong>Senior Endpoint Technician &nbsp;|&nbsp; Cyber Defense &nbsp;|&nbsp; GRC &nbsp;|&nbsp; IAM</strong>
+<strong>Senior Endpoint Technician &nbsp;|&nbsp; Threat Hunting &nbsp;|&nbsp; Incident Response &nbsp;|&nbsp; Cloud Security &nbsp;|&nbsp; GRC</strong>
 </p>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/danielle-respes-64113767/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Security%2B-In%20Progress-orange?style=flat-square&logo=comptia&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Clearance-Eligible-green?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Cyber%20Range-LogNPacific-darkblue?style=flat-square"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Defender%20for%20Endpoint-MDE-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Tenable-Vulnerability%20Management-00AEEF?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NIST-CSF%20%7C%20800--53%20%7C%20800--61-grey?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square"/>
+<a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn</a> &nbsp;|&nbsp;
+<strong>Security+ (July 2026)</strong> &nbsp;|&nbsp;
+<strong>Clearance Eligible</strong>
 </p>
 
 ---
-
-I'm a Senior Endpoint Technician moving into cyber defense. I'm using my background in system administration to build threat hunting and security analysis skills, and I document my process clearly so my work is transparent and useful to others.
-
-> *"I believe real expertise is built in the noise — by navigating real telemetry and dead ends to understand the why behind the data."*
+**Cyber Range Internship:** LogNPacific | **Tools:** Sentinel · KQL · Defender XDR · Tenable · NIST 800-53 | 800-61 · MITRE ATT&CK
 
 ---
 
-## Professional Mission
+I'm a Senior Endpoint Technician transitioning into GRC, threat hunting, and incident response. I investigate real incidents, reverse-engineer payloads, and document my methodology clearly so my work is transparent and reproducible.
 
-My mission is to learn, document, and grow. I'm using this space to track my move from endpoint management into a security role, building toward cyber defense, GRC, and IAM.
+"Real expertise is built in the noise — by navigating real telemetry and dead ends to understand the why behind the data."
+
+I'm using this repository to document my career progression from endpoint operations into cyber defense — building skills through real investigations and hands-on analysis.
+
 
 ---
 
