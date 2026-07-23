@@ -27,7 +27,7 @@ I'm using this repository to document my career progression from endpoint operat
 | Investigation | Focus | Status |
 |---|---|---|
 | [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigating unauthorized TOR usage — querying DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint. | Active Hunt |
-| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | Live threat hunt — Microsoft Sentinel + MDE telemetry. Formal IR report following NIST 800-61. | Opens July 18, 2026 |
+| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | Live threat hunt — Microsoft Sentinel + MDE telemetry. Formal IR report following NIST 800-61. | In-Progress, July 21, 2026  |
 
 ---
 
