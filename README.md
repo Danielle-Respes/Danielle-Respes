@@ -26,8 +26,8 @@ I'm using this repository to document my career progression from endpoint operat
 
 | Investigation | Focus | Status |
 |---|---|---|
-| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigating unauthorized TOR usage — querying DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents to confirm installation and isolate endpoint. | Active Hunt |
-| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | Live threat hunt — Microsoft Sentinel + MDE telemetry. Formal IR report following NIST 800-61. | In-Progress, July 21, 2026  |
+| [Threat Hunting — TOR Browser](https://github.com/Danielle-Respes/Threat-Hunting-Scenario-TOR) | Investigating unauthorized TOR usage — checking device logs to confirm install and isolate the endpoint. | Active |
+| [Hidden Directive](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | A live incident response case — reconstructing how an attacker got into Greenfield Logistics, how far they moved, and what they touched, using Sentinel + MDE telemetry. Writing it up as a full incident report, not a guided walkthrough. | In progress |
 
 ---
 
@@ -35,7 +35,7 @@ I'm using this repository to document my career progression from endpoint operat
 
 | Project | Description | Tools |
 |---|---|---|
-| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion (Windows/Linux) — identified initial access, pivot, and attacker workstation `loranse`. | Sentinel · Defender XDR · KQL |
+| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | A week-long community hunt — the initial theory on this intrusion was wrong, so I worked it from the evidence instead. Traced a cross-platform intrusion solo, from a quiet login through Windows and Linux pivots to the attacker's own workstation. | Sentinel · Defender XDR · KQL |
 | [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full VM program — policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, mock CAB presentation | Tenable · Azure VMs · NIST RMF |
 
 ---
@@ -46,7 +46,6 @@ I'm using this repository to document my career progression from endpoint operat
 |---|---|---|
 | KQL Detection Query Library | 10 annotated detection queries in Microsoft Sentinel | KQL · Sentinel |
 | MITRE ATT&CK Research | Research briefs for 9 ATT&CK techniques — log artifacts, KQL detection logic, campaign usage | MITRE ATT&CK · KQL · Sentinel |
-
 ---
 
 ## Technical Core
