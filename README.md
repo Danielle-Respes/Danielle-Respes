@@ -4,8 +4,8 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn</a> &nbsp;|&nbsp;
-<strong>Security+ (July 2026)</strong> &nbsp;|&nbsp;
-<strong>Clearance Eligible</strong>
+<strong>Security+ (September 2026)</strong> &nbsp;|&nbsp;
+<strong>Ability to Obtain Security Clearance Eligible</strong>
 </p>
 
 ---
