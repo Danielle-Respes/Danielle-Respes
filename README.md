@@ -22,7 +22,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 | Investigation | Focus | Status |
 |---|---|---|
-| **Another Day, Part Two** | OSINT to exfil — tracking a breach credential from public profile through one workstation over one week in May. Determining actual incident classification before client writes it off. Using Defender XDR Advanced Hunting and KQL. | Active |
+| [Threat Hunt: EchoLeak (Oct 2026)](https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026) | Investigated how hidden instructions in an email attachment hijacked Microsoft 365 Copilot (CVE-2025-32711), leading to 13 confidential files being accessed and leaked through image links. Used Sentinel and KQL across Office, Copilot and Entra logs. | Completed |
 
 ---
 
@@ -63,7 +63,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 ## Education & Certifications
 
-**In Progress:** CompTIA Security+ (September 2026)
+**In Progress:** CompTIA Security+ (November 2026)
 
 **Coursework:** MD-102 (Endpoint Administrator) · AZ-104 (Azure Administrator)
 
