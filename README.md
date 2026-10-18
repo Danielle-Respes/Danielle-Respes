@@ -14,7 +14,7 @@
 
 ---
 
-I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) transitioning into threat detection and incident response. I'm interning at LOG(N) Pacific on detection engineering and vulnerability management — self-funded and self-directed. Learning by doing real investigations, writing production queries, and documenting my methodology so my work is transparent and reproducible.
+I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) transitioning into threat detection and incident response. I'm interning at LOG(N) Pacific on detection engineering and vulnerability management — self-funded and self-directed. Learning by doing real investigations, writing detection and hunting queries, and documenting my methodology so my work is transparent and reproducible.
 
 ---
 
