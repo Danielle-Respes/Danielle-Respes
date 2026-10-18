@@ -14,7 +14,7 @@
 
 ---
 
-I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) transitioning into threat detection and incident response. I'm interning at LogNPacific on detection engineering and vulnerability management — self-funded and self-directed. Learning by doing real investigations, writing production queries, and documenting my methodology so my work is transparent and reproducible.
+I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) transitioning into threat detection and incident response. I'm interning at LOG(N) Pacific on detection engineering and vulnerability management — self-funded and self-directed. Learning by doing real investigations, writing production queries, and documenting my methodology so my work is transparent and reproducible.
 
 ---
 
@@ -39,7 +39,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 ## Area of Focus
 
-**Detection Engineering:** Building KQL hunting queries and Sentinel detections for MITRE ATT&CK techniques. Full cycle: research → query → test → deploy → analyst playbook. Part of LogNPacific internship.
+**Detection Engineering:** Building KQL hunting queries and Sentinel detections for MITRE ATT&CK techniques. Full cycle: research → query → test → deploy → analyst playbook. Part of LOG(N) Pacific internship.
 
 **Threat Hunting:**     Lateral movement detection (practicing about 3 hunts per month through the LOG(N) Pacific internship)
 
