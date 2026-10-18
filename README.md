@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn</a> &nbsp;|&nbsp;
-<strong>Security+ (September 2026)</strong> &nbsp;|&nbsp;
+<strong>   CompTIA Security+ (expected November 2026)</strong> &nbsp;|&nbsp;
 <strong>Ability to Obtain Security Clearance Eligible</strong>
 </p>
 
@@ -63,7 +63,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 ## Education & Certifications
 
-**In Progress:** CompTIA Security+ (November 2026)
+**In Progress:**    CompTIA Security+ (expected November 2026)
 
 **Coursework:** MD-102 (Endpoint Administrator) · AZ-104 (Azure Administrator)
 
