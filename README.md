@@ -10,7 +10,7 @@
 
 ---
 
-**Cyber Range Internship:** LogNPacific | **Tools:** Sentinel · KQL · Defender XDR · Tenable · MITRE ATT&CK · NIST
+**Cyber Range Internship:** LOG(N) Pacific | **Tools:** Sentinel · KQL · Defender XDR · Tenable · MITRE ATT&CK · NIST
 
 ---
 
