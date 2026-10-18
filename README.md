@@ -51,13 +51,13 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 **Detection & Hunting:** KQL · Advanced Hunting · Tenable Nessus · CVSS
 
-**Identity & Access:** Entra ID · Azure AD · MFA · Conditional Access · Microsoft 365 · Intune
+**Identity & Access:**  Entra ID (formerly Azure AD) · MFA · Conditional Access · Microsoft 365 · Intune
 
 **Frameworks:** NIST CSF · NIST 800-53 · NIST 800-61 · MITRE ATT&CK
 
 **Scripting:** PowerShell · KQL
 
-**Security Operations:** Incident response · Log analysis · Artifact analysis · Reverse engineering
+**Security Operations:** Incident response · Log analysis · Artifact analysis 
 
 ---
 
