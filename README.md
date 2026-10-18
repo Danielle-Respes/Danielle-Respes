@@ -41,7 +41,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 **Detection Engineering:** Building KQL hunting queries and Sentinel detections for MITRE ATT&CK techniques. Full cycle: research → query → test → deploy → analyst playbook. Part of LogNPacific internship.
 
-**Threat Hunting:**  Movement detection, especially lateral (three times per month with internship).
+**Threat Hunting:**     Lateral movement detection (practicing about 3 hunts per month through the LOG(N) Pacific internship)
 
 ---
 
