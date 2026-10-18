@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/danielle-respes-64113767/">LinkedIn</a> &nbsp;|&nbsp;
 <strong>   CompTIA Security+ (expected November 2026)</strong> &nbsp;|&nbsp;
-<strong>   Clearance: U.S. Citizen · Security Clearance Eligible</strong>
+<strong>   U.S. Citizen · Security Clearance Eligible</strong>
 </p>
 
 ---
