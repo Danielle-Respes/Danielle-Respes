@@ -18,11 +18,47 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 ---
 
-## Current Work
+## Current Threat Hunts
 
 | Investigation | Focus | Status |
 |---|---|---|
 | [Threat Hunt: EchoLeak (Oct 2026)](https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026) | Investigated how hidden instructions in an email attachment hijacked Microsoft 365 Copilot (CVE-2025-32711), leading to 13 confidential files being accessed and leaked through image links. Used Sentinel and KQL across Office, Copilot and Entra logs. | Completed |
+
+---
+
+
+## Professional Focus
+
+I remain deeply curious and engaged in my day-to-day Help Desk and endpoint role. I continuously expand my original scope of work by taking ownership of security triage, Advanced Hunting with KQL, automated SOAR playbook correlation, and cross-team containment efforts. These real-world investigations bridge frontline IT operations with proactive cybersecurity, deliberately building the practical foundation for my next position in threat detection and incident response.
+
+## October 2026 Incident Triage Tracker
+
+<table width="100%">
+  <thead>
+    <tr style="background-color: #14532d; color: white;">
+      <th style="background-color: #14532d; color: white; padding: 12px; text-align: left; font-weight: bold; border-top-left-radius: 6px;">Security Platform / Tool</th>
+      <th style="background-color: #14532d; color: white; padding: 12px; text-align: left; font-weight: bold;">Operational Focus & Investigation Summary</th>
+      <th style="background-color: #14532d; color: white; padding: 12px; text-align: left; font-weight: bold; border-top-right-radius: 6px;">Advanced KQL & Telemetry Analysis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; vertical-align: top;"><strong>Microsoft Defender for Endpoint</strong></td>
+      <td style="padding: 12px; vertical-align: top;"><strong>Endpoint Malware Containment:</strong> Investigated behavioral alerts (<code>SuspMasqueradedRenPyExe</code>), coordinated workstation isolation with IT leadership, arranged clean base image reimaging, and performed user communication and credential resets with a high-empathy approach.</td>
+      <td style="padding: 12px; vertical-align: top;">• Inspected raw device process telemetry (<code>DeviceProcessEvents</code>, <code>DeviceFileEvents</code>) to trace unauthorized script execution paths and command-line flags.<br><br>• Verified file drop locations in user-space directories to confirm isolation boundaries.</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; vertical-align: top;"><strong>Adlumin / Entra ID / Windows SOAR</strong></td>
+      <td style="padding: 12px; vertical-align: top;"><strong>Cloud Identity & SOAR Automation:</strong> Managed high-severity M365 risky sign-ins (password spray patterns under MITRE <code>T1110.003</code> / <code>T1110.001</code>), tracked automated <code>domain_account/disable</code> playbooks executing across regional domain controllers, and guided users through Classlink recovery and AD sync windows (~1 hour).</td>
+      <td style="padding: 12px; vertical-align: top;">• <strong>Entra ID Log Analysis:</strong> Traced authentication error code sequences (<code>ErrorCode 50140</code> and <code>ErrorCode 399218</code>) to establish user behavior patterns.<br><br>• <strong>Tenant-Wide Scoping:</strong> Executed scoping checks (<code>UniqueUsers = 1</code>) to rule out broad brute-force campaigns and confirm single-target impact.<br><br>• <strong>SOAR Correlation:</strong> Mapped automated playbook execution timestamps against identity risk scoring.</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; vertical-align: top;"><strong>Microsoft Defender for Endpoint & KQL</strong></td>
+      <td style="padding: 12px; vertical-align: top;"><strong>False Positive Validation:</strong> Differentiated genuine credential threats from legitimate Chromium browser profile migrations (<code>--utility-sub-type=chrome.mojom.ProfileImport</code>) using targeted KQL log queries on lab workstation assets.</td>
+      <td style="padding: 12px; vertical-align: top;">• Ran targeted Advanced Hunting queries against <code>DeviceProcessEvents</code> to isolate installer command-line flags, confirming benign profile migration behavior without user disruption.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
