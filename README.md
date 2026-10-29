@@ -18,7 +18,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 ---
 
-## Current Threat Hunts
+## Recent Threat Hunts
 
 | Investigation | Focus | Status |
 |---|---|---|
