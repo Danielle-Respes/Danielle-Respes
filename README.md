@@ -22,6 +22,7 @@ I'm a Senior Endpoint Technician at Council Rock School District (8,000+ users) 
 
 | Investigation | Focus | Status |
 |---|---|---|
+| [Threat Hunt: QUARTZFANG (Oct 2026)](https://github.com/Danielle-Respes/Threat-Hunt-QUARTZFANG-2026) | Investigated an AI-directed espionage intrusion modeled on Anthropic's Campaign C0062: an SSRF in a document preview API led to a Redis cron backdoor, credential theft, database dumping, encrypted HTTPS exfiltration and a sudo backdoor account. Traced it across 4 hosts and 9 Sentinel tables with KQL, caught 2 fabricated claims in the attacker's AI agent log, and ruled out 4 look-alike noise patterns. 28/28 flags solved. | Completed |
 | [Threat Hunt: EchoLeak (Oct 2026)](https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026) | Investigated how hidden instructions in an email attachment hijacked Microsoft 365 Copilot (CVE-2025-32711), leading to 13 confidential files being accessed and leaked through image links. Used Sentinel and KQL across Office, Copilot and Entra logs. | Completed |
 
 ---
