@@ -35,6 +35,7 @@ I'm an endpoint support technician transitioning into security. In my current he
 | Investigation | Focus | Status |
 |---|---|---|
 | [Help Desk Security Playbook](https://github.com/Danielle-Respes/HelpDesk-Security-Playbook) | Applying alert triage, identity response, and KQL investigation in my current help desk role. | Active |
+
 ---
 
 ## Completed Investigations
@@ -44,6 +45,7 @@ I'm an endpoint support technician transitioning into security. In my current he
 | [Hidden Directive DFIR](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | 12-phase incident reconstruction — Greenfield Logistics intrusion. Sentinel + Defender XDR telemetry. Full incident report with evidence citations. Completed August 2026. | Sentinel · Defender XDR · KQL |
 | [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion reconstruction across Windows and Linux. Initial theory was wrong — worked it from evidence instead. Traced from quiet login through pivots to attacker workstation. | Sentinel · Defender XDR · KQL |
 | [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full program lifecycle: policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, Change Advisory Board presentation. | Tenable · Azure VMs · NIST |
+
 ---
 
 
