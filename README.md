@@ -43,7 +43,7 @@ I'm an endpoint support technician transitioning into security. In my current he
 | Project | Description | Tools |
 |---|---|---|
 | [Hidden Directive DFIR](https://github.com/Danielle-Respes/Hidden-Directive-Threat-Hunt-Investigation-Sentinel-MDE-2026) | 12-phase incident reconstruction — Greenfield Logistics intrusion. Sentinel + Defender XDR telemetry. Full incident report with evidence citations. Completed August 2026. | Sentinel · Defender XDR · KQL |
-| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion reconstruction across Windows and Linux. Initial theory was wrong — worked it from evidence instead. Traced from quiet login through pivots to attacker workstation. | Sentinel · Defender XDR · KQL |
+| [Northpeak Descent](https://github.com/Danielle-Respes/Northpeak-Descent-Cross-Platform-Intrusion-Sentinel-KQL-2026) | Cross-platform intrusion hunt across Windows and Linux (June 2026). Solved all 19 flags across 5 sections: valid-account RDP, Linux recon, NetExec SMB pivot, Run-key persistence, encoded beacons to look-alike C2 domains, and customer data exfiltration. Initial "Linux first" theory was wrong; disproved it with timestamps and worked it from the evidence. | Sentinel · Defender XDR · KQL |
 | [Vulnerability Management Program](https://github.com/Danielle-Respes/Vulnerability-Management) | Full program lifecycle: policy drafting, authenticated Tenable scans, CVSS prioritization, 4 remediation rounds, Change Advisory Board presentation. | Tenable · Azure VMs · NIST |
 
 ---
